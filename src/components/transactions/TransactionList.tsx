@@ -192,6 +192,3 @@ export default function TransactionList() {
     </div>
   );
 }
-
-
-// Testing
